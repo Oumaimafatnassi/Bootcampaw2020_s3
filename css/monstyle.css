@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+.cm1{
+    font-family: cursive;
+    background-color: rgba(255, 0, 0, 0.6);
+}
+
+.cm2{
+    font-size: 20px;
+    color: rgb(240, 33, 67);
+}
+.cm3{
+    font-style: oblique;
+    text-align: center;
+    opacity: 0.4;
+    border: 2px blue double;
+    border-radius:5px 10px 15px 20px ;
+
+}
+.cm4{
+    font-weight: bolder;
+    color: #fff;
+    background-color: tomato;
+}
+.cm5{
+    font-family: 'Lobster', cursive;
+    font-size: 48px;
+    border: 4px green dashed;
+    border-radius:25px
+
+}
+body{
+    background: url("./../images/Formalab\ logo.png") fixed center center;
+    background-size: cover;
+}
